@@ -1,5 +1,1 @@
-git add .
-git commit -m
-git fetch origin
-git pull origin
-git push
+git pull origin 
